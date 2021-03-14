@@ -4,7 +4,8 @@ const app = express();
 app.get('/', (req, res) => {
     console.log("Request received");
     // res.send('Welcome');
-    res.json({msg: "Welcome using JSON"});
+    // res.json({msg: "Welcome using JSON"});
+    res.end();
 });
 
 app.listen(1234, () => {
