@@ -1,0 +1,12 @@
+{
+  "name": "202101-IM215-REST-MySQL-API",
+  "version": "1.0.0",
+  "description": "MySQL REST API Express",
+  "main": "index.js",
+  "repository": "git@github-confed:npatel17Confed/202101-IM215-REST-MySQL-API.git",
+  "author": "Nilkumar Patel <nsp4898@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
