@@ -10,6 +10,9 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "app": "node index.js"
+    "app": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
